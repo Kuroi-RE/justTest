@@ -1,6 +1,3 @@
-HELLO
+ahdhahdahuhuahueoahohfohaoihihoiahidhfihafiaofhiaoh
 
-List the commands!
-
-Name        |     how use
-anime       =>    python anime.py
+:::::KK:::::::
